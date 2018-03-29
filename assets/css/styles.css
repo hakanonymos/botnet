@@ -1,0 +1,80 @@
+.side-nav li.logo {
+	background-color: #fff;
+}
+.primary-color {
+    background-color: #1e88e5 !important;
+}
+.select-wrapper {
+	margin-left: 45px;
+}
+input[type=text].valid {
+    border-bottom: 1px solid #1e88e5;
+    box-shadow: 0 1px 0 0 #1e88e5;
+}
+input[type=text].valid + label{
+    color : #1e88e5;
+}
+input[type=text]:focus:not([readonly]) {
+    border-bottom: 1px solid #1e88e5;
+    box-shadow: 0 1px 0 0 #1e88e5;
+}
+input[type=text]:focus:not([readonly]) + label{
+    color : #1e88e5;
+}
+input[type=email].valid {
+    border-bottom: 1px solid #1e88e5;
+    box-shadow: 0 1px 0 0 #1e88e5;
+}
+input[type=email].valid + label{
+    color : #1e88e5;
+}
+input[type=email]:focus:not([readonly]) {
+    border-bottom: 1px solid #1e88e5;
+    box-shadow: 0 1px 0 0 #1e88e5;
+}
+input[type=email]:focus:not([readonly]) + label{
+    color : #1e88e5;
+}
+input[type=password].valid {
+    border-bottom: 1px solid #1e88e5;
+    box-shadow: 0 1px 0 0 #1e88e5;
+}
+input[type=password].valid + label{
+    color : #1e88e5;
+}
+input[type=password]:focus:not([readonly]) {
+    border-bottom: 1px solid #1e88e5;
+    box-shadow: 0 1px 0 0 #1e88e5;
+}
+input[type=password]:focus:not([readonly]) + label{
+    color : #1e88e5;
+}
+input[type=date].valid {
+    border-bottom: 1px solid #1e88e5;
+    box-shadow: 0 1px 0 0 #1e88e5;
+}
+input[type=date].valid + label{
+    color : #1e88e5;
+}
+input[type=date]:focus:not([readonly]) {
+    border-bottom: 1px solid #1e88e5;
+    box-shadow: 0 1px 0 0 #1e88e5;
+}
+input[type=date]:focus:not([readonly]) + label{
+    color : #1e88e5;
+}
+.input-field .prefix.active {
+    color: #1e88e5;
+}
+.picker__day--selected, .picker__day--selected:hover, .picker--focused .picker__day--selected {
+    background-color: #1e88e5;
+}
+.picker__close, .picker__today {
+    color: #1e88e5;
+}
+.picker__day.picker__day--today {
+    color: #1e88e5;
+}
+.brand-logo {
+    background-color: #fff;
+}

@@ -1,0 +1,85 @@
+/* -------------------------------------------------+
+	Title: MateriAll - Admin Template
+	Framework: Materialize
+    Version: 1.0 stable
+	Author: Jozef Dvorský, http://www.creatingo.com
++-------------------------------------------------- */
+
+.dynamic-color .col {
+    padding: 6px;
+}
+.dynamic-color .col div {
+    padding: 6px;
+}
+.grid-example .col {
+    border: 1px solid #fff;
+    background-color: #d5ecf7;
+}
+.shadow-example p {
+    padding: 10px;
+	text-align: center;
+	color: #ffffff;
+    background-color: #4dd0e1;
+}
+.valign-example {
+	height:120px;
+	margin-bottom:10px;
+    background-color: #d5ecf7;
+}
+.valign-example h5{
+	width:100%;
+}
+.float-example .col {
+	padding: 10px 20px 15px 20px;
+    border: 1px solid #fff;
+    background-color: #d5ecf7;
+}
+.images-example .card-panel {
+	padding:20%;
+}
+.video-example .card-panel {
+	padding:0;
+}
+.video-example video {
+	display:block;
+}
+.icon-container .icon-preview {
+    height: 110px;
+    text-align: center;
+}
+.icon-container i {
+    font-size: 2.8em;
+    margin-bottom: 6px;
+	color:#546e7a;
+}
+.icon-container span {
+    display: block;
+}
+#staggered-test li, #image-test {
+    opacity: 0;
+}
+.pinned {
+    margin-top: 74px;
+}
+.toc-wrapper {
+    padding-left: 24px;
+}
+.waves-color-demo .collection-item {
+    height: 57px;
+    line-height: 57px;
+}
+@media only screen and (max-width: 480px) {
+.waves-color-demo .collection-item  {
+    height: auto;
+    line-height: 57px;
+	text-align:center;
+}
+
+.waves-color-demo  .secondary-content , .waves-color-demo .language-markup{
+    float: none;
+	display: block !important;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+}
