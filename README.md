@@ -1,6 +1,6 @@
 # botnet
  ce botnet se base dans ce tutoriel https://www.youtube.com/watch?v=xrr-Zr61QMg&t=44s ,
-  il a été codé en C#, et utlise le  .NET 2.0 Framework.
+  il a été codé en C#, et utlise le  .NET Framework 2.0 
 
 # Caractéristiques du panneau!
 
@@ -24,7 +24,7 @@
 
 ### Attention
 
-> Ceci est strictement pour à des fins éducatives seulement.
+> Ceci est strictement  à des fins éducatives .
 > Je ne suis en aucun cas responsable de vos actes
 
 
