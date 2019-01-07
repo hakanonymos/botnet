@@ -16,7 +16,6 @@
   - Visitez la page Web (visible ou cachée)
   - Démarrage du botnet au démarage de windows
   - Informations sur le bot (OS, version, emplacement installé, etc.)
-  - Botkiller de base (rien d'extraordinaire)
   - Mettre à jour
   - Désinstaller
 
@@ -36,4 +35,3 @@ nom d'utilisateur: admin
 
 Mot de passe: admin
 
-# prochaine mise à jour ,il consite à ajouter un keylogger dans le projet du botnet
